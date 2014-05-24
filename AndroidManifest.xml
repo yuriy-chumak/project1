@@ -28,6 +28,15 @@
             android:label="@string/title_activity_start"
             android:theme="@style/FullscreenTheme" >
         </activity>
+        <activity
+            android:name="com.wata.battleships.BattleField"
+            android:label="@string/title_activity_battle_field" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

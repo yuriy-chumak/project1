@@ -7,5 +7,8 @@
     <string name="title_activity_start">Battleships</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_start">Start the game</string>
+    <string name="title_activity_battle_field">BattleFieldActivity</string>
 
 </resources>
