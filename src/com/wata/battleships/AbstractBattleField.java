@@ -6,7 +6,6 @@ import java.util.List;
 /**
  * Abstract class representing a board in the game. This class should be extended to represent the specifics of the
  * board for the game being implemented.
- * https://github.com/mpatric/lurgee/blob/master/sgf/src/net/lurgee/sgf/AbstractBoard.java
  */
 
 public abstract class AbstractBattleField implements Poolable {
